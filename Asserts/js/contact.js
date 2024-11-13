@@ -7,7 +7,6 @@ const responseDiv = document.querySelector(".response");
 
 // Define success and error images
 const successImg = 'Asserts/images/success.png';
-// const successImg = "success.png";
 const errorImg = "Asserts/images/error.png";
 
 // Hide popover initially
